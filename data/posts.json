@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": "1",
+      "title": "Primer post de prueba",
+      "body": "Este es el contenido del primer post"
+    },
+    {
+      "userId": 2,
+      "id": "2",
+      "title": "Segundo post",
+      "body": "Contenido del segundo post"
+    },
+    {
+      "id": "6dc3",
+      "title": "Tercer post",
+      "body": "post de prueba",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Juan Pérez",
+      "username": "juanp",
+      "email": "juan@example.com",
+      "phone": "123-456-7890",
+      "website": "juan.com",
+      "address": {
+        "city": "Madrid"
+      },
+      "company": {
+        "name": "TechCorp"
+      }
+    },
+    {
+      "id": "2",
+      "name": "María García",
+      "username": "mariag",
+      "email": "maria@example.com",
+      "phone": "098-765-4321",
+      "website": "maria.com",
+      "address": {
+        "city": "Barcelona"
+      },
+      "company": {
+        "name": "DevStudio"
+      }
+    }
+  ]
+}
